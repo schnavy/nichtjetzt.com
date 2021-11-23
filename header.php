@@ -5,6 +5,6 @@
     Unsere aktuelle Sonderausgabe »Neemodsch« zeigt neue Mode und Fotografie aus Hamburg." />
   <meta name="keywords" lang="de" content="Nicht-Jetzt, Nicht, Jetzt, Nichtjetzt; nichtjetzt!, Magazin, Hamburg, Design, Mode, Fotografie, Typografie, Haw" />
   <title>nicht jetzt!&thinsp;&mdash;&thinsp;Magazin / <?php print($thisPage) ?></title>
-  <link rel="stylesheet" type="text/css" href="bootstrap.min.css">
-  <link rel="stylesheet" type="text/css" href="stylesheet.css">
+  <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="css/stylesheet.css">
 </head>
